@@ -1,0 +1,15 @@
+# Build artifacts
+bin/
+obj/
+
+# Rider/VS caches
+.vs/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Logs and temporary files
+*.log
+*.tmp
